@@ -1,6 +1,7 @@
 This is a Web Development Project named "Unspoken Craft". 
 It is an E-commerce website intended for Handicraft and Handloom articlles of India to protect the authenticity and the treasure of our country 'Indian Artisans' who have a real talent at making beautiul things out of what we consider as useless.
-This was a group project developed by 4 members: https://github.com/atharvi06, https://github.com/ishika-debug & myself.
+This was a group project developed by 4 members: https://github.com/atharvi06, https://github.com/ishika-debug & myself
+the UI/UX was designed by: Disha Shenoy.
 
 Here is how our site look:
 
@@ -18,5 +19,5 @@ This is a iunique feature in our project where the seller himself can upload det
 
 This was a small preview of our site. There are also few more pages that we have created like the cart, the display of all products, dropdown options, etc.
 For the backend integration we have used Firebase Console.
-
+This project is half-way complete. Stay tuned for the further development of this project.
 
