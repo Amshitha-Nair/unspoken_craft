@@ -1,6 +1,6 @@
 This is a Web Development Project named "Unspoken Craft". 
 It is an E-commerce website intended for Handicraft and Handloom articlles of India to protect the authenticity and the treasure of our country 'Indian Artisans' who have a real talent at making beautiul things out of what we consider as useless.
-This was a group project developed by 4 members.
+This was a group project developed by 4 members: https://github.com/atharvi06, .
 
 Here is how our site look:
 
