@@ -1,0 +1,107 @@
+div.container{
+    margin-left:100px;
+
+}
+.product-name  {
+
+    font-style: normal;
+    margin-top: 50px;
+    font-size: 30px;
+    line-height: 40px;
+    position: absolute;
+    
+}
+.product-pri {
+
+    font-style: normal;
+    margin-top: 50px;
+    font-size: 30px;
+    line-height: 40px;
+    position: absolute;
+    
+}
+.product-image {
+
+    font-style: normal;
+    margin-top: 50px;
+    font-size: 30px;
+    line-height: 40px;
+    position: absolute;
+}
+
+.addpro {
+    font-style: normal;
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 40px;
+    position: absolute;
+}
+.line{
+    margin-top: 110px;
+    width: 1200px;
+    margin-left: -2px;
+}
+
+.form-control{
+    height: 40px;
+    width: 1200px;
+    margin-top: 100px;
+    border-radius: 10px;
+    padding: 10px;
+    border: 0.2px solid black;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 50px;
+    text-align: left;
+    
+    flex: none;    
+}
+
+.addbtn{
+    margin-top:50px;
+    background: rgba(145, 59, 16, 0.62);
+    border:none;
+    height:50px;
+    width: 100px;
+    color: white;
+    font-size:25px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+.addbtn:hover{
+    color:#cfcfcfb2
+}
+.showbtn{
+    box-sizing: border-box;
+    margin-top:-50px;
+    margin-left:150px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+text-decoration: none;
+position: absolute;
+height:50px;
+    width: 100px;
+
+background: #CFCFCF;
+border: 0.2px solid rgba(145, 59, 16, 0.85);
+border-radius: 10px;
+font-family: 'PT Sans Caption';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 50px;
+text-align: center;
+color: #000000;
+cursor:pointer;
+
+}
+.showbtn:hover{
+    color:rgba(145, 59, 16, 0.85)
+}

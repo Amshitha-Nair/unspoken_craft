@@ -1,0 +1,219 @@
+.App {
+    background-color: #bbaa26;
+  }
+  
+  .form-containeruser {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  
+  
+  
+  .form-titleuser {
+    position: absolute;
+    width: 500px;
+    height: 58px;
+    margin-left: -110px;
+    margin-top: -173px;
+    
+    /* Title font */
+    
+    font-family: 'Bitter';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+    
+    
+    /* Accent colour */
+    
+    color: #913B10;
+    
+  }
+  
+  label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(34, 34, 34);
+  }
+
+  .regs{
+    position: absolute;
+    width: 539px;
+    height: 300px;
+    margin-left: -250px;
+    margin-top: -115px;
+  }
+
+  .sec{
+    margin-left:60px;
+    size: 50px;
+  }
+
+.inboxn{
+  position: absolute;
+width: 1084px;
+height: 91px;
+margin-left: -600px;
+margin-top: 250px;
+background: #C4C4C4;
+opacity: 0.3;
+font-family: 'Alegreya Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 58px;
+
+color: #000000;
+}
+
+.inboxe{
+  position: absolute;
+width: 1084px;
+height: 91px;
+margin-left: -600px;
+margin-top: 350px;
+background: #C4C4C4;
+opacity: 0.3;
+font-family: 'Alegreya Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 58px;
+
+color:black;
+
+}
+
+.inboxp{
+  position: absolute;
+width: 1084px;
+height: 91px;
+margin-left: -600px;
+margin-top: 450px;
+background: #C4C4C4;
+opacity: 0.3;
+font-family: 'Alegreya Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 58px;
+
+color: #000000;
+}
+.inboxm{
+  position: absolute;
+width: 1084px;
+height: 91px;
+margin-left: -600px;
+margin-top: 550px;
+background: #C4C4C4;
+opacity: 0.3;
+font-family: 'Alegreya Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 58px;
+
+color: #000000;
+
+}
+
+.inboxa{
+  position: absolute;
+width: 1084px;
+height: 91px;
+margin-left: -600px;
+margin-top: 650px;
+background: #C4C4C4;
+opacity: 0.3;
+font-family: 'Alegreya Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 58px;
+
+color: #000000;
+
+}
+.forgotpassword{
+  margin-left: 30px;
+}
+
+  .btn{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 3px;
+gap: 10px;
+position: absolute;
+width: 277px;
+height: 59px;
+margin-left: -100px;
+margin-top: 850px;
+background: rgba(145, 59, 16, 0.85);
+border-radius: 4px;
+font-family: 'Alegreya Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 58px;
+
+color: #ffffff;
+  }
+
+  .english{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    margin-left: 470px;
+    margin-top: -230px;
+    background: #FFFCE6;
+    border: 1px solid rgba(145, 59, 16, 0.85);
+    border-radius: 10px;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    color: #000000;
+    }
+    
+    .marathi{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    margin-left: 600px;
+    margin-top: -230px;
+    background: #FFFCE6;
+    border: 0.2px solid rgba(145, 59, 16, 0.85);
+    border-radius: 10px;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    color: #000000;
+    }

@@ -1,0 +1,142 @@
+.women{
+    height: 377px;
+    width: 1500px;
+    margin-top: 20px;
+
+}
+
+.parawomen{
+    font-weight: 50;
+    font-size: 20px;;
+	color: black;
+    text-align:left;
+    margin-left:85px;
+    margin-top:30px;
+}
+.parawomen2{
+    
+    font-weight: 50;
+    font-size: 20px;;
+	color: black;
+    text-align:left;
+    margin-left:85px;
+    margin-top:100px;
+}
+.parawomen2 a{
+    font-weight: 50;
+    font-size: 20px;;
+	color: black;
+    text-align:left;
+    margin-left:85px;
+    margin-top:100px;
+}
+.bw{
+    height: 25px;
+width: 25px;
+border: none;
+padding:5px;
+background-color: rgb(215, 209, 209);
+}
+.bwb{
+    height: 25px;
+width: 25px;
+border: none;
+padding:5px;
+background-color: black;
+}
+.bwg{
+    height: 25px;
+width: 25px;
+border: none;
+padding:5px;
+background-color: rgb(11, 180, 11);
+}
+.bwp{
+    height: 25px;
+width: 25px;
+border: none;
+padding:5px;
+background-color: pink;
+}
+.bwbl{
+    height: 25px;
+width: 25px;
+border: none;
+padding:5px;
+background-color: blue;
+}
+.bwv{
+    height: 25px;
+width: 25px;
+border: none;
+padding:5px;
+background-color: purple;
+}
+
+.container-women{
+    margin-top:-470px;
+}
+.dress1{
+	margin-left: 305px;
+    height: 460px;
+    width: 342px;
+    margin-top:20px;
+
+}
+.dress2{
+    margin-left: 20px;
+}
+.dress3{
+    margin-left: 20px;
+}
+.dress4{
+	margin-left: 305px;
+    height: 460px;
+    width: 342px;
+    margin-top:20px;
+
+}
+.dress5{
+    margin-left: 20px;
+}
+.dress6{
+    margin-left: 20px;
+}
+.dress1down{
+	margin-left: 305px;
+    height: 460px;
+    width: 342px;
+    margin-top:50px;
+
+}
+.dress1p{
+    height: 58px;
+    width: 333px;
+    margin-left: 305px ;
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+}
+.dress2p{
+    height: 58px;
+    width: 333px;
+    margin-left: 680px ;
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+text-align: left;
+margin-top: -75px;
+}
+.dress3p{
+    height: 58px;
+    width: 333px;
+    margin-left: 1040px ;
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+text-align: left;
+margin-top: -78px;
+}
+

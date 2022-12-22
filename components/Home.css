@@ -1,0 +1,324 @@
+.row{
+	background: #FFFCE6;
+}
+
+h1.display-1 {
+display:flex;
+margin-left:55px;
+font-size: 64px;
+font-weight: 600;
+margin-top: 150px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.para1{
+    display:flex;
+    margin-left:55px;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+
+.rectangle{
+	
+	display: inline-block;
+	height: 714px;
+    width: 775px;
+    margin-top: 20px;
+    border-radius: 0px;
+	background: #E9E2D8A1;
+ }
+
+
+ .shop-now{
+    box-sizing: border-box;
+	margin-left: 250px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+text-decoration: none;
+position: absolute;
+height:50px;
+    width: 200px;
+font-family: 'PT Sans Caption';
+font-size: 32px;
+    font-weight: 100;
+    text-align: center;
+line-height: 50px;
+cursor:pointer;
+background: #913B10;
+	color: white;
+	border: none;
+
+ }
+
+ .lady{
+	margin-left: 775px;
+    margin-top: -596px;
+	height: 714px;
+	width: 730px;
+ }
+ 
+h3.display-2{
+    font-weight: bolder;
+    font-size: 58px;
+	color: #913B10;
+    text-align:center;
+}
+.para2{
+    display:flex;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    text-align:center;
+    margin-left:340px;
+}
+
+.plate {
+	width: 400px;
+	height: 299px;
+	margin-left: 75px;
+    
+}
+
+.wallplate {
+	margin-left: -275px;
+    position: absolute;
+    margin-top: 250px;
+    border: none;
+    height: 27px;
+    width: 171px;
+    padding: 5px;
+    font-family: 'Alegreya Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: center;
+    color:rgba(0, 0, 0, 0.7)
+}
+
+.explore{
+    border-radius: 4px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 100;
+    text-align: center;
+    background: #913B10;
+	color: white;
+	border: none;
+    width: 250px;
+	height: 59px;
+	margin-left: 650px;
+    margin-top:35px;
+
+    box-sizing: border-box;
+    
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+text-decoration: none;
+position: absolute;
+height:50px;
+    width: 200px;
+font-family: 'PT Sans Caption';
+font-size: 22px;
+    font-weight: 100;
+    text-align: center;
+line-height: 50px;
+cursor:pointer;
+background: #913B10;
+	color: white;
+	border: none;
+}
+
+.rectangle2{
+    display: inline-block;
+	height: 545px;
+    width: 1540px;
+    top: 1957px;
+    margin-top: 100px;
+    border-radius: 0px;
+	background: #E9E2D8A1; 
+}
+
+.coco{
+    height: 545px;
+    margin-left: 1035px;
+    margin-top: -795px;
+
+}
+
+h1.display-3{
+    display:flex;
+    margin-left:55px;
+    font-size: 64px;
+    font-weight: 600;
+    margin-top: -450px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.kaka{
+    height: 420px;
+    width: 650px;
+    margin-left: 125px;
+    margin-top: 50px;   
+
+}
+
+.rectangle3{
+    display: absolute;
+	height: 375px;
+    width: 630px;
+	background: #E9E2D8A1; 
+    margin-left: 777px;
+    margin-top: -430px;
+    margin-bottom:50px;
+}
+
+h1.display-4 {
+    display:flex;
+    margin-left: 55px;
+    font-size: 32px;
+    font-weight: 400;
+    margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .para3{
+        display:flex;
+        margin-left:55px;
+        font-size: 24px;
+        font-weight: 400;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    }
+
+
+
+.rectangle4{
+    display: absolute;
+	height: 375px;
+    width: 630px;
+	background: #E9E2D8A1; 
+    margin-left: 125px;
+    margin-top: -430px;
+    margin-bottom:50px;  
+    
+    }
+    
+.kaki{
+    height: 420px;
+    width: 650px;
+    margin-left: 747px;
+    margin-top: 50px;
+    }
+    
+h1.display-5 {
+        display:flex;
+        margin-left: 55px;
+        font-size: 32px;
+        font-weight: 400;
+        margin-top: 30px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+    
+.para4{
+            display:flex;
+            margin-left:55px;
+            font-size: 24px;
+            font-weight: 400;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+        }
+    
+
+
+
+
+.explore2{
+    box-sizing: border-box;
+    margin-left: 650px;
+    margin-top: 50px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+text-decoration: none;
+position: absolute;
+height:50px;
+    width: 200px;
+font-family: 'PT Sans Caption';
+font-size: 22px;
+    font-weight: 100;
+    text-align: center;
+line-height: 50px;
+cursor:pointer;
+background: #913B10;
+	color: white;
+	border: none;
+}
+
+h2.display-4{
+    display:flex;
+    margin-left:795px;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: -100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.homeen{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 1170px;
+    top: 150px;
+    background: #FFFCE6;
+    border: 1px solid rgba(145, 59, 16, 0.85);
+    border-radius: 10px;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    color: #000000;
+    }
+    
+    .homema{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 1300px;
+    top: 150px;
+    background: #FFFCE6;
+    border: 0.2px solid rgba(145, 59, 16, 0.85);
+    border-radius: 10px;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    color: #000000;
+    }
